@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactRouting/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ReactRouting/static/js/main.6698f269.chunk.js",
+    "main.js.map": "/ReactRouting/static/js/main.6698f269.chunk.js.map",
+    "runtime~main.js": "/ReactRouting/static/js/runtime~main.f2bb98ae.js",
+    "runtime~main.js.map": "/ReactRouting/static/js/runtime~main.f2bb98ae.js.map",
+    "static/js/2.ba9757aa.chunk.js": "/ReactRouting/static/js/2.ba9757aa.chunk.js",
+    "static/js/2.ba9757aa.chunk.js.map": "/ReactRouting/static/js/2.ba9757aa.chunk.js.map",
+    "index.html": "/ReactRouting/index.html",
+    "precache-manifest.a03ec4dff29f9a2bd243035b17fa7b4c.js": "/ReactRouting/precache-manifest.a03ec4dff29f9a2bd243035b17fa7b4c.js",
+    "service-worker.js": "/ReactRouting/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/ReactRouting/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/ReactRouting/static/media/logo.5d5d9eef.svg"
+  }
+}
