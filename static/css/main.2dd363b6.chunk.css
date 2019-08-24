@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}header{background-color:#2c3e50;display:flex;justify-content:space-between;align-items:center;color:#fff;padding:0 15px}header h2{margin:0 15px}header li{list-style:none}header a{text-decoration:none;color:inherit;cursor:pointer;opacity:.9}header a:hover{opacity:1}@media (max-width:1000px){header{padding:20px 50px}}@media (max-width:700px){header{flex-direction:column}header h2{margin-bottom:15px}}.App{text-align:center}
+/*# sourceMappingURL=main.2dd363b6.chunk.css.map */
